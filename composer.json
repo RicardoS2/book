@@ -1,0 +1,27 @@
+{
+    "name": "rick-es-rick/book-complet",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "description": "my book-wise project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Ricardo",
+            "email": "Rick-Business-S2@proton.me",
+            "role": "Developer"
+        }
+    ],
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "require": {
+
+
+    }
+}
